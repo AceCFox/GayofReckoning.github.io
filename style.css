@@ -1,4 +1,9 @@
-p{
+Body{background-color:#c2c2d6;}
 
-color:red;
+h1{text-allign:center;}
+h3{text-allign:centre;}
+
+p{
+color:black;
+  font-family:Lucida Console;
 }

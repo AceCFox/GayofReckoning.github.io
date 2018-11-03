@@ -12,14 +12,22 @@ GitHub Page
 afox09@gmail.com <br>
 (203)731-1310</h5>
 <br>
-<br>
+
 <p1>A highly self-motivated indivuidual willing to learn new skills and begin a new chapter of my life.
 I have a passion for learning and developing new ways of interacting with the world around me, and I am skilled at working with people to acomplish shared goals. </p>
   <br>
-  <br>
+ 
   <h3>
     Experience
   </h3>
+  <h5>Seward Co-op - Minneapolis MN</h5>
+  <p2>Prepared Foods Shift Lead, Cook, September 2015- Present
+ <ul>
+  <l1>Managed and assisted with the production of prepared foods
+<l2>Ordered ingredients from a variety of providers
+<l3>Created organizational tools for my department, including a generator for food prep
+<l4>Coordinated menus and production with buyers at other locations
+  </ul>
   
 
 </body>

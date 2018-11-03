@@ -23,10 +23,10 @@ I have a passion for learning and developing new ways of interacting with the wo
   <h5>Seward Co-op - Minneapolis MN</h5>
   <p2>Prepared Foods Shift Lead, Cook, September 2015- Present
  <ul>
-  <l1>Managed and assisted with the production of prepared foods
-<l2>Ordered ingredients from a variety of providers
-<l3>Created organizational tools for my department, including a generator for food prep
-<l4>Coordinated menus and production with buyers at other locations
+  <l1>Managed and assisted with the production of prepared foods</l1>
+  <l2>Ordered ingredients from a variety of providers</l2>
+  <l3>Created organizational tools for my department, including a generator for food prep</l3>
+  <l4>Coordinated menus and production with buyers at other locations</l4>
   </ul>
   
 

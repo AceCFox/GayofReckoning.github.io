@@ -53,6 +53,7 @@ I have a passion for learning and developing new ways of interacting with the wo
 <h5>Beloit College Food Service - Beloit, WI</h5>
 <p>Grill Cook, Dishwasher 2009-2012
 <br>
+  <br>
 <h3>
 Additional Skills
 </h3>

@@ -14,7 +14,13 @@ afox09@gmail.com <br>
 <br>
 <br>
 <p1>A highly self-motivated indivuidual willing to learn new skills and begin a new chapter of my life.
-I have a passion for learning and developing new ways of interacting with the world around me, and I  </p>
+I have a passion for learning and developing new ways of interacting with the world around me, and I am skilled at working with people to acomplish shared goals. </p>
+  <br>
+  <br>
+  <h3>
+    Experience
+  </h3>
+  
 
 </body>
 </html>

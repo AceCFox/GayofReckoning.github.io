@@ -1,15 +1,7 @@
 
 #body{
-	margin-top: 20px;
-	margin-left: 100px;
-	margin-right: 100px;
-
-	padding: 10px 100px 10px 100px;
-
 	border-radius: 15px;
 	background-color: #bf80ff;
-
-	text-align: left;
 }
 
 h1{text-allign:center;}

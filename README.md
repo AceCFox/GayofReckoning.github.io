@@ -17,8 +17,16 @@ I have a passion for learning and developing new ways of interacting with the wo
   <h3>
     Experience
   </h3>
+  <h5>Gigi's Cafe - Minneapolis, MN, June 2019 - March 2020</h5>
+  <p>Line Cook
+ <ul>
+   <li>Cooked and plated meals as ordered to chef specification</li>
+   <li>Prepared recipes to specification on weekly rotation</li>
+   <li>Confidently worked multiple lines, assisted in dish washing and cleaning as needed</li>
+  </ul>  
+  <br>
   <h5>Seward Co-op - Minneapolis MN</h5>
-  <p>Prepared Foods Shift Lead, Cook, September 2015- Present
+  <p>Prepared Foods Shift Lead, Cook, September 2015 - June 2019
  <ul>
   <li>Managed and assisted with the production of prepared foods</li>
   <li>Ordered ingredients from a variety of providers</li>
@@ -43,16 +51,6 @@ I have a passion for learning and developing new ways of interacting with the wo
 <li>Problem-solved to improve pastry recipes</li>
 </ul>
 <br>
-<h5>Jo-Ann Fabrics and Crafts - Madison, WI</h5>
-<p>Team Member, October 2012 - July 2013
-<ul>
-<li>Stocked shelves and kept track of inventory</li>
-<li>Provided friendly, courteous customer service</li>
-</ul>
-<br>
-<h5>Beloit College Food Service - Beloit, WI</h5>
-<p>Grill Cook, Dishwasher 2009-2012
-<br>
   <br>
 <h3>
 Additional Skills
@@ -61,8 +59,8 @@ Additional Skills
 <li>ServSafe Certified Food Safety Manager</li>
 <li>Strong Familiarity with natural foods and Co-operative structure</li>
 <li>Six years' experience living cooperatively and regularly preparing vegan meals for a group</li>
-<li>Co-Manager of 120-member recreational roller derby league</li>
-<li>Proficiency with google docs, spreadsheets, and basic HTML</li>
+<li>Manager of 120-member recreational roller derby league</li>
+<li>Proficiency with google drive, spreadsheets, and basic HTML</li>
 </ul>
 <br>
 <h3>

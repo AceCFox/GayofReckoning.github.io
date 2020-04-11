@@ -17,15 +17,15 @@ I have a passion for learning and developing new ways of interacting with the wo
   <h3>
     Experience
   </h3>
-  <h4>Gigi's Cafe - Minneapolis, MN, June 2019 - March 2020</h4>
-  <p>Line Cook
+  <h4>Gigi's Cafe - Minneapolis, MN</h4>
+  <p>Line Cook June 2019 - March 2020
  <ul>
    <li>Cooked and plated meals as ordered to chef specification</li>
    <li>Prepared recipes to specification on weekly rotation</li>
    <li>Confidently worked multiple lines, assisted in dish washing and cleaning as needed</li>
   </ul>  
   <br>
-  <h5>Seward Co-op - Minneapolis MN</h5>
+  <h4>Seward Co-op - Minneapolis MN</h4>
   <p>Prepared Foods Shift Lead, Cook, September 2015 - June 2019
  <ul>
   <li>Managed and assisted with the production of prepared foods</li>
@@ -34,7 +34,7 @@ I have a passion for learning and developing new ways of interacting with the wo
   <li>Coordinated menus and production with buyers at other locations</li>
   </ul>
   <br>
-  <h5>The Green Owl Cafe -  Madison, WI </h5>
+  <h4>The Green Owl Cafe -  Madison, WI </h4>
   <p>Line Cook, Assistant Pastry Chef,  Server;  July 2013 - August 2015
   <ul>
   <li>Worked both hot and cold lines, assisted with prep work</li>
@@ -44,7 +44,7 @@ I have a passion for learning and developing new ways of interacting with the wo
   <li>Accommodated vegan, gluten free, paleo, and other dietary restrictions</li>
   </ul>
   <br>
-  <h5>Next Door Brewing Company - Madison, WI</h5>
+  <h4>Next Door Brewing Company - Madison, WI</h4>
   <p>Line Cook, Pastry, April 2015 - August 2015
 <ul>
 <li>Deftly worked multiple lines, as well as contributing to prep</li>

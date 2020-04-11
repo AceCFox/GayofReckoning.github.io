@@ -5,6 +5,7 @@ GitHub Page
 </Head>
 <body>
 <h1> Ace Fox </h1>
+  <h3>They/Them</h3>
 <h5>2011 3rd Ave South
 <br>Minneapolis, MN 
 <br>
@@ -66,8 +67,8 @@ Additional Skills
 <h3>
 Education
 </h3>
-<h5>
+<h4>
 BA in Women's and Gender Studies
-</h5>
+</h4>
 <p>
 Beloit College, Beloit, WI, 2012

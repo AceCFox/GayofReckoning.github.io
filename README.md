@@ -17,7 +17,7 @@ I have a passion for learning and developing new ways of interacting with the wo
   <h3>
     Experience
   </h3>
-  <h5>Gigi's Cafe - Minneapolis, MN, June 2019 - March 2020</h5>
+  <h4>Gigi's Cafe - Minneapolis, MN, June 2019 - March 2020</h4>
   <p>Line Cook
  <ul>
    <li>Cooked and plated meals as ordered to chef specification</li>

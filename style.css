@@ -1,10 +1,12 @@
 
-#body{	background-color: #bf80ff;}
+body{
+  background-color: #bf80ff;
+}
 
 h1{text-allign:center;}
 h3{text-allign:center;}
 h5{text-allign:center; border-style: double;}
 p{
 color:black;
-  font-family:Lucida Console;
+  font-family:Helvetica;
 }

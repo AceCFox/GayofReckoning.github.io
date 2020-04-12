@@ -7,8 +7,13 @@ h1{text-allign:center;}
 h3{text-allign:center;}
 h5{text-allign:center; border-style: double;}
 p{
+<<<<<<< HEAD
 color: black;
   font-family: Helvetica;
 font-size: 80%
+=======
+color:black;
+  font-family:Helvetica;
+>>>>>>> 083380e9f56fa9365cc0eca81c82713296f9fcf4
 }
 

@@ -3,14 +3,16 @@ body{
 background-color:#D3C3E6;
 }
 
-h1{text-allign:center;}
+h1{text-allign:center;
+margin-bottom:0px;}
+
 h3{text-allign:center;}
 h5{text-allign:center; border-style: double;}
 
 p{
 color:black;
-font-family:Helvetica;
-font-size:80%
+font-family:Georgia;
+font-size:90%
 }
 
 
